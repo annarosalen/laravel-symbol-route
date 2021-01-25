@@ -1,0 +1,3 @@
+<FOOter>
+    FOOTER COMUNE
+</FOOter>

@@ -1,0 +1,14 @@
+body {
+  background-color: blue;
+  color: white;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+}
+
+li a {
+  color: yellow;
+}
+
